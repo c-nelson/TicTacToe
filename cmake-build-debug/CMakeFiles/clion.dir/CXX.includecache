@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/CMNABN/Google Drive/GitHub/CS161/TicTacToe/TicTacToe/Board.cpp
+iostream
+-
+Board.hpp
+/Users/CMNABN/Google Drive/GitHub/CS161/TicTacToe/TicTacToe/Board.hpp
+
+/Users/CMNABN/Google Drive/GitHub/CS161/TicTacToe/TicTacToe/Board.hpp
+
+/Users/CMNABN/Google Drive/GitHub/CS161/TicTacToe/TicTacToe/TicTacToe.cpp
+iostream
+-
+TicTacToe.hpp
+/Users/CMNABN/Google Drive/GitHub/CS161/TicTacToe/TicTacToe/TicTacToe.hpp
+
+/Users/CMNABN/Google Drive/GitHub/CS161/TicTacToe/TicTacToe/TicTacToe.hpp
+Board.hpp
+/Users/CMNABN/Google Drive/GitHub/CS161/TicTacToe/TicTacToe/Board.hpp
+
