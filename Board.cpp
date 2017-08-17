@@ -11,7 +11,7 @@
 /************************************************************
 *                       Board::Board
 * This is the default constructor. It sets all boardTable's
-* values to the period (.) char value.
+* values to the period (.) char value
 *************************************************************/
 Board::Board()
 {
